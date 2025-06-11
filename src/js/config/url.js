@@ -1,1 +1,1 @@
-export let signupURL = "https://syncroapp-3b34793ae8e7.herokuapp.com/api/accounts";
+export let signupURL = "https://syncro-app-c8151e05a204.herokuapp.com/api/accounts";
